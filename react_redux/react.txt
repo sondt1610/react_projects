@@ -1,0 +1,25 @@
+1. install nodejs
+2. npm install -g create-react-app
+3. create-react-app vd1
+4. npm start
+
+
+start download in github
+1. npm install
+
+Install uuid
+1. npm install uuid
+
+Build code to use on server
+1. npm run build
+
+Run server on local
+1. npm install -g serve
+2. serve -s
+
+Install redux and react-redux
+npm install redux --save
+npm install react-redux
+
+Install firebase
+npm install firebase --save

@@ -1,0 +1,15 @@
+1. Setup nodejs:
+- cd backend
+- npm install -g express --save
+- npm install -g express-generator --save
+2. Create new project:
+- express product_manager_api -e
+3. Install npm
+- npm install
+- npm start
+4. Install plugin connect nodejs with postgre
+- npm install pg
+5. clear command
+- cls
+6. Install axios with frontend:
+- npm install axios
